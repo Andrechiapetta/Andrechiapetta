@@ -29,5 +29,10 @@
 <br />
 <br />
 
+---
+
+<img align="left" alt="andrechiapetta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andrechiapetta&show_icons=true&hide_border=true" />
+
+
 [instagram]: https://www.instagram.com/dedechiapetta
 [linkedin]: https://www.linkedin.com/in/andre-chiapetta-42606b176/
